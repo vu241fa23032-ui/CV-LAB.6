@@ -23,3 +23,6 @@ Ensure you have the required Python libraries installed:
 2. **Prewitt Edge Detection**: Manually creates the Prewitt kernels (horizontal and vertical) and applies them using `cv2.filter2D`, then combines them.
 3. **Canny Edge Detection**: Uses the advanced `cv2.Canny` function for hysteresis-based robust edge detection.
 4. **Visualization**: Uses Matplotlib to display a 2x2 grid comparing the original image against the three edge-detected outputs.
+
+#OUTPUT
+<img width="1031" height="989" alt="image" src="https://github.com/user-attachments/assets/02f7d009-dcd3-47fa-9bcc-9b46a00c3306" />
